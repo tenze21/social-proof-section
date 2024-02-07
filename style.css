@@ -119,13 +119,13 @@ main{
   }
 }
 @media screen and (min-width:800px){
-  /* body{
+   body{
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     flex-direction: column;
-  } */
+  } 
  .flex{
   display: flex;
   justify-content: space-between;
