@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: Checkout my solution and leave some comments on [frontend mentor]()
-- Live Site URL: View the livesite [here]()
+- Live Site URL: View the livesite [here](https://social-proof-section-cyan-three.vercel.app/)
 
 ## My process
 I started with the mobile design and scaled the design for larger screens. It was tough to align the contents properly with the change in screen size.
