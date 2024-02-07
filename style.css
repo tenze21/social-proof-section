@@ -55,6 +55,7 @@ h1{
   padding: 0 2rem;
   text-align: center;
   margin-bottom: 1.5rem;
+  font-size: 2.5rem;
 }
 main{
   color: var(--dark-grayish-magenta);
